@@ -24,7 +24,15 @@ The objectives are as following -
 3. Bivarient Analysis (including Timeseries Analysis)
 4. Insights
 
-<h2> Some Insights drawn are as follows: </h2>
+<h2> Some Insights based recommendation are as follows: </h2>
 
+• The Members are doing really well in terms of sales numbers for the company. Thus a campaign can be formulated to promote the member sign ups.
 
+• The spike in Feb sales are a hint that the stores have the potential to have higher sales throughout the year. Specially April to November period sales can be significantly improved by some focused marketing.
+
+• Food & Beverages, Home and lifestyle have the maximum AOV among all categories, but constitute just 20% of the total sales together. The ratings are also better than other categories. It is a sign that a strategy around promoting these categories can be formulated.
+
+• It is a good sign for the supermarket chain that Females are driving majority of the sales. Even females' dominated categories such as Health & Beauty, Fashion are top product categories. The company can scale this further to improve overall revenue. Female tend to be higher spenders than Men, and company can take more advantage of this data insight.
+
+• Yangon has least sales and AOV of all cities and the difference is significant too. Hence a focused marketing campaign can be launched to meet the potential sale in this city.
 
