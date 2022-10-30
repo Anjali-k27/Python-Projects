@@ -17,4 +17,14 @@ The objectives are as following -
 
 •	All transactions belong to year 2019
 
+<h2>Steps involved in EDA: </h2>
+
+1. Data wrangling
+2. Univarient Analysis
+3. Bivarient Analysis (including Timeseries Analysis)
+4. Insights
+
+<h2> Some Insights drawn are as follows: </h2>
+
+
 
