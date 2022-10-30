@@ -1,4 +1,4 @@
-<h2> Credit Risk Analysis EDA </h2>
+<h2> Introduction </h2>
 
 The aim of this case study is to perform Risk Analytics with the help of data wrangling and visualisation libraries of Python. The end goal is to derive important insights for the bank to identify the characteristics for bad loan applications.
 
